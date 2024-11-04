@@ -8,3 +8,6 @@
 <h4>Projeto para reforçar os conhecimentos da impotância e utilização do TypeScript no desenvolvimento Front-End, além de usar o poder do API Context para compartilhar informações globais para toda a aplicação, utilizando dessa ferramenta para criar um controle de tema Claro e Escuro para a aplicação</h4>
 
 <h2>Link da deploy: https://todo-type-context.netlify.app</h2>
+
+<img src="https://i.ibb.co/Bj0V9x0/todoD.png" alt="todoD" border="0">
+<img src="https://i.ibb.co/xGYqzNN/todoL.png" alt="todoL" border="0">
